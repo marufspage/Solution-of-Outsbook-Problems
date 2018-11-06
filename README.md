@@ -1,1 +1,4 @@
-# Solutions of Outsbook Problem Volume - 1
+# Solution of Outsbook Problems
+
+#### Volume - 1
+[100 - Can You Type It?]()
